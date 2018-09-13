@@ -1,0 +1,12 @@
+[submodule "lib/mculibs"]
+	path = lib/mculibs
+	url = https://github.com/atakansarioglu/mculibs_stm32f10x.git
+[submodule "lib/porty"]
+	path = lib/porty
+	url = https://github.com/atakansarioglu/porty_stm32f10x.git
+[submodule "lib/ticker"]
+	path = lib/ticker
+	url = https://github.com/atakansarioglu/ticker.git
+[submodule "lib/punctual"]
+	path = lib/punctual
+	url = https://github.com/atakansarioglu/punctual.git
